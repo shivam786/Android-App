@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\world\Desktop\Movies1\Movies1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\world\Desktop\Movies1\Movies1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_9f7dde624e4c3d3f6f677ae6596e9bc43cfa01c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\world\Desktop\Movies1\Movies1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\world\Desktop\Movies1\Movies1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_5c26c58b7804ac94e44eaa47b14f3d6062e775ed.jar" />
+    </item>
+    <item
+        jar="D:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\world\Desktop\Movies1\Movies1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_ecf2d37e99d6af86305b22ed39c8a29b4446990b.jar" />
+    </item>
+    <item
+        jar="C:\Users\world\Desktop\Movies1\Movies1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\world\Desktop\Movies1\Movies1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_66fe1bb765752e52087edcde1e1a431c304d81e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\world\Desktop\Movies1\Movies1\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="C:\Users\world\Desktop\Movies1\Movies1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.0_7dca6a9f0271a78991147d7022722c2c5a7a33d2.jar" />
+    </item>
+
+</items>

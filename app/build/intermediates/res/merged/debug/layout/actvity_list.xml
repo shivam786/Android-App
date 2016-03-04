@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:id="@+id/tabsLayout"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+    
+
+     android:gravity="center"
+     android:orientation="vertical">
+
+      <ListView 
+			android:id="@+id/newReleaseList"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:scrollbars="none" 
+			android:divider="#000"
+			android:dividerHeight="1dp"
+			android:background="#fff"
+			/>
+  
+</LinearLayout>
